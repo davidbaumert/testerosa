@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/davidbaumert/testerosa/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Here is a picture of a cat:
+
+![Cat](/docs/Cat.jpg)
+
+Here is a picture of a kitten:
+
+![Kitten](/docs/Kitten.JPG)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
