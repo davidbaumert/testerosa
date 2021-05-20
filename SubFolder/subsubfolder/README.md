@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Sub-SubProject
 
 You can use the [editor on GitHub](https://github.com/davidbaumert/testerosa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,9 +12,7 @@ Here is a picture of a kitten:
 
 ![Kitten](/docs/Kitten.JPG)
 
-### [This Heading is a link to the SubProject](/SubFolder/README.md)
-
-### Markdown
+### [This Heading is a link to the Project](/README.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
