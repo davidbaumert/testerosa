@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is a picture of a cat:
 
-![Cat](testerosa/docs/Cat.jpg)
+![Cat](../../docs/Cat.jpg)
 
 Here is a picture of a kitten:
 
-![Kitten](testerosa/docs/Kitten.JPG)
+![Kitten](../../docs/Kitten.JPG)
 
 ### [This Heading is a link to the Project](../../README.md)
 
