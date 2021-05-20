@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is a picture of a cat:
 
-![Cat](/docs/Cat.jpg)
+![Cat](../docs/Cat.jpg)
 
 Here is a picture of a kitten:
 
