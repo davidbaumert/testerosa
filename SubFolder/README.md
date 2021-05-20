@@ -6,13 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here is a picture of a cat:
 
-![Cat](/docs/Cat.jpg)
+![Cat](testerosa/docs/Cat.jpg)
 
 Here is a picture of a kitten:
 
-![Kitten](/docs/Kitten.JPG)
+![Kitten](https://davidbaumert.github.io/testerosa/docs/Kitten.JPG)
 
-### [This Heading is a link to the Sub-SubProject](/subsubfolder/README.md)
+### [This Heading is a link to the Sub-SubProject](/subsubfolder)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
