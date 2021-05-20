@@ -12,7 +12,7 @@ Here is a picture of a kitten:
 
 ![Kitten](/docs/Kitten.JPG)
 
-### [This Heading is a link to the Sub-SubProject](/SubFolder/subsubfolder/README.md)
+### [This Heading is a link to the Sub-SubProject](/subsubfolder/README.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
